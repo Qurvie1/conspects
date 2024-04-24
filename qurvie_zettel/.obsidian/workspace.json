@@ -1,0 +1,372 @@
+{
+  "main": {
+    "id": "f8d4f43f5cff82d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dfe92e1c7218e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56f7303964ca6559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calculus/Таблица интегралов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b141a9ca8cbfd021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++/Параграф 2.4.1 Сложные объявления.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "472fb3ad54217773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++/Приведения типов (2.7).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db3659499b88caed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "alktg/Нормальные формы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec17de6fc4c73586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "alktg/Замыкание множества функций.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bcf15d9e9835ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calculus/Критерий евклидовости.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b8d7f201965f14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++/Constructors and destructors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32890b91a6c66cf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++/Rule of three.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2bfa8fcfec68769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithms/Splay-дерево.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d36e2d51ef97c8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++/10.6 Test overloading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97a3ab1c642a2138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++/Стадии сборки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "000a4f8d687208c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calculus/Достаточное условие спрямляющей кривой.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5604faf96026dac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "решаю кормена/глава 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4688e16a5e51975f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithms/Биномиальная куча.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a12a2b15d1609c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "physics/Виды течения жидкости.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4806ff2008dd1700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "physics/Уравнение Бернулли.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94e6d2edf8b7d11b",
+    "type": "split",
+    "children": [
+      {
+        "id": "793e9ab8a1613ddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "321b349eee83631a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e815da0012a37cf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "асим",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecf3d0da5684fb24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "768247c13fa7b4c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4df8711fd316d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f177480043c38231",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "c++/Стадии сборки.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c602c115f3bfd727",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "c++/Стадии сборки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93ebbe5fc978f102",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ca5620f7e67281f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "c++/Стадии сборки.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "321b349eee83631a",
+  "lastOpenFiles": [
+    "conspects",
+    "c++/Constructors and destructors.md",
+    "c++/Приведения типов (2.7).md",
+    "c++/Стадии сборки.md",
+    "c++/Параграф 1.4 Expressions and operators, lvalue, rvalue.md",
+    "c++/Параграф 1.3. Области видимости, пространства имён.md",
+    "c++/11.1 Auto keyword.md",
+    "calculus/Критерий Лебега.md",
+    "calculus/Локальный минимум или максимум.md",
+    "calculus/Теорема Ролля о среднем.md",
+    "calculus/Критерий интегрируемости по Риману.md",
+    "calculus/Определённый интеграл Римана.md",
+    "physics/Семинар 23.04.2024.md",
+    "ovaitk/Оватик, сем.md",
+    "angem/Семинар 22.04.2024.md",
+    "ovaitk",
+    "calculus/Комплексные числа.md",
+    "c++/10.7 Expired value.md",
+    "Untitled 1.md",
+    "c++/10.6 Test overloading.md",
+    "c++/Параграф 2.6. Consts.md",
+    "angem/Линейная функция.md",
+    "angem/Билинейные формы.md",
+    "angem/Квадратичные формы.md",
+    "physics/Закон распределение Больцмана.md",
+    "physics/Среднее число столкновений со стенкой.md",
+    "physics/Распределение скоростей Максвелла.md",
+    "решаю кормена",
+    "algorithms",
+    "alktg",
+    "calculus",
+    "psychology",
+    "self-improving",
+    "angem",
+    "physics",
+    "c++",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}
